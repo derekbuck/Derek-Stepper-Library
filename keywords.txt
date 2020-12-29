@@ -1,0 +1,5 @@
+DerekStepper	KEYWORD1
+microstepPins	KEYWORD2
+stepStepper	KEYWORD2
+stepSize	KEYWORD2
+stepperSpeed	KEYWORD2
